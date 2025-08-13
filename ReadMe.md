@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 CS student at PUCRS
 
 
